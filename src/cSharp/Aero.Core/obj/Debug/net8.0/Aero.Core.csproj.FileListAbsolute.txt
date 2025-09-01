@@ -1,0 +1,12 @@
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/bin/Debug/net8.0/Aero.Core.deps.json
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/bin/Debug/net8.0/Aero.Core.dll
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/bin/Debug/net8.0/Aero.Core.pdb
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.sourcelink.json
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.dll
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/refint/Aero.Core.dll
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/Aero.Core.pdb
+/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Core/obj/Debug/net8.0/ref/Aero.Core.dll

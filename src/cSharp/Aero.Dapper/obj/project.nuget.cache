@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptK36SQteOc=",
+  "success": true,
+  "projectFilePath": "/home/et12alumno/Escritorio/Bd_Aerolineas/src/cSharp/Aero.Dapper/Aero.Dapper.csproj",
+  "expectedPackageFiles": [
+    "/home/et12alumno/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
