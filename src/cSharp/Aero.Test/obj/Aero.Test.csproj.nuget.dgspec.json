@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/Aero.Test.csproj": {}
+    "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/Aero.Test.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/Aero.Test.csproj": {
+    "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/Aero.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/Aero.Test.csproj",
+        "projectUniqueName": "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/Aero.Test.csproj",
         "projectName": "Aero.Test",
-        "projectPath": "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/Aero.Test.csproj",
+        "projectPath": "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/Aero.Test.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/obj/",
+        "outputPath": "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",

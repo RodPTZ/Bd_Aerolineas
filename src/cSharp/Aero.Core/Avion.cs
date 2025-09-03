@@ -2,10 +2,10 @@
 
 public class Avion
 {
-    public required string modelo { get; set; }
-    public required string fabricante { get; set; }
-    public required int capacidad { get; set; }
-    public required int anio_fabricacion { get; set; }
-    public required int cantidad { get; set; }
-    public required string matriculas { get; set; }
+    public required string Modelo { get; set; }
+    public required string Fabricante { get; set; }
+    public required int Capacidad { get; set; }
+    public required int Anio_fabricacion { get; set; }
+    public required int Cantidad { get; set; }
+    public required string Matriculas { get; set; }
 }

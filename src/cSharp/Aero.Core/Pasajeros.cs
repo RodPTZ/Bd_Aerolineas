@@ -2,12 +2,12 @@
 
 public class Pasajeros
 {
-    public string ?nombre { get; set; }
-    public string ?apellido { get; set; }
-    public int dni { get; set; }
-    public string ?email { get; set; }
-    public int telefono { get; set; }
-    public string ?nacionalidad { get; set; }
-    public DateTime fechaNacimiento {get; set;}
-    public string ?pasaporte { get; set; }
+    public string ?Nombre { get; set; }
+    public string ?Apellido { get; set; }
+    public int DNI { get; set; }
+    public string ?Email { get; set; }
+    public int Telefono { get; set; }
+    public string ?Nacionalidad { get; set; }
+    public DateTime FechaNacimiento {get; set;}
+    public string ?Pasaporte { get; set; }
 }

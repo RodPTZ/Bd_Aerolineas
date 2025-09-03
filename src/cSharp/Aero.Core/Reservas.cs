@@ -2,11 +2,11 @@ namespace Aero.Core;
 
 public class Reservas
 {
-    public int idReserva { get; set; }
-    public int idPasajero { get; set; }
-    public int id_vuelo { get; set; }
-    public DateTime fechaReserva { get; set; }
-    public string ?clase { get; set; }
-    public decimal precio { get; set; }
-    public string ?asiento { get; set; }
+    public int IdReserva { get; set; }
+    public int IdPasajero { get; set; }
+    public int IdVuelo { get; set; }
+    public DateTime FechaReserva { get; set; }
+    public string ?Clase { get; set; }
+    public decimal Precio { get; set; }
+    public string ?Asiento { get; set; }
 }

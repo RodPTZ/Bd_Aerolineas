@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFI3uDg1Rvw=",
+  "dgSpecHash": "AUUIZ8UST4w=",
   "success": true,
-  "projectFilePath": "/home/et12alumno/Escritorio/Bd_Aerolineas/Aero.Test/Aero.Test.csproj",
+  "projectFilePath": "/home/et12alumno/Documentos/main/src/cSharp/Aero.Test/Aero.Test.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
